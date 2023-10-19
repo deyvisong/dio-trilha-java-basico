@@ -1,0 +1,12 @@
+
+# what write in gitignore?
+
+# 1. *.pyc
+
+# 2. __pycache__
+
+# 3. .idea
+
+# 4. .DS_Store
+
+# 5. *.sqlite3
